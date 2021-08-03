@@ -76,7 +76,7 @@ void KMP(string s, string t){
 }
 
 int main(){
-    
+    //author PTK-NTH-LTAT-DAD
     string s = "aaa";
     string t = "aaaaa";
     cout << "Test with string sub: " << s << "\nstring pattern: " << t << '\n';
